@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Playfair+Display&family=Poppins&family=Radio+Canada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+/* ------------------------------------ */
+
+@keyframes rotateSettings {
+    0%{
+        transform: translate(0%,0%) rotate(0deg);
+    }
+
+    75%{
+        transform: translate(0%,0%) rotate(200deg);
+    }
+
+    100%{
+        transform: translate(0%,0%) rotate(360deg);
+    }
+}
+
+/* ------------------------------------ */
+
+@keyframes preloader {
+    100% { transform: scale(1.1); }
+}
+
+/* ------------------------------------ */
+
+@keyframes fx {
+    50% {
+        transform: scale(1);
+        opacity: 1;
+   }
+    100% {
+        opacity: 0;
+   }
+}

@@ -1,0 +1,12 @@
+:root {
+    --fond : #201515;
+    --main : #943030;
+    --itemBG : #421f1f;
+    --itemUG : #743434;
+    --hoverButton: #962727;   
+    --footerBG: #1d1111;                                           
+    --ecriture: #EEF1F8;
+    --ecriture2: #838A9D;
+    --font-main: 'Kanit', sans-serif;
+    --font-lato: 'Lato', sans-serif;
+}
